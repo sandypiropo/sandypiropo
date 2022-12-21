@@ -1,6 +1,7 @@
 - 👋 PYTHON, JAVASCRIPT and PORTUGOL 
-- 🌱 learning python and portugol
+- ✨ learning python and portugol
 - 📫 contact me: sandypiropo@gmail.com
+- 👾 She/Her
 
 <!---
 sandypiropo/sandypiropo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
