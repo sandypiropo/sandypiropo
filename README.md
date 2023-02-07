@@ -2,6 +2,9 @@
 
 Currently, I am a student of systems analysis and development. I'm learning python and improving my knowledge in HTML5 and CSS3.
 
+ <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
+
+
 <div>
     <a href="https//beacons.ai/sandypiropo">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=sandypiropo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
