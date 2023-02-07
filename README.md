@@ -1,6 +1,7 @@
 - Hi There
 
-Currently, I am a student of systems analysis and development. I'm learning python and improving my knowledge in HTML5 and CSS3.
+   Currently, I am a student of systems analysis and development. 
+I'm learning python and improving my knowledge in HTML5 and CSS3.
 
 
 <div>
