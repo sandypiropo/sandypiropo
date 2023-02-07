@@ -10,11 +10,11 @@ Currently, I am a student of systems analysis and development. I'm learning pyth
 </div>
 
   <div align="left" valign="top"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="left" alt="Redux" height="30" width="40" 
  <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   </div><br>
+     <img align="left" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    
 
  ![game-cube-micheal-jackson](https://user-images.githubusercontent.com/121200148/217372831-0a64cc76-6c74-4535-abf2-bd26887c7a6a.gif)
