@@ -4,11 +4,11 @@
 - I'm learning python and improving my knowledge in Javascript, HTML5 and CSS3.
 
 
-<div>
+<!-- <div>
     <a href="https//beacons.ai/sandypiropo">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=sandypiropo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   </a>
-</div>
+</div> -->
 
   <div align="left" valign="top"><br>
   <img align="left" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -18,6 +18,6 @@
      <img align="left" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    
 
- ![game-cube-micheal-jackson](https://user-images.githubusercontent.com/121200148/217372831-0a64cc76-6c74-4535-abf2-bd26887c7a6a.gif)
+ <!-- ![game-cube-micheal-jackson](https://user-images.githubusercontent.com/121200148/217372831-0a64cc76-6c74-4535-abf2-bd26887c7a6a.gif) -->
 
 
