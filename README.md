@@ -1,10 +1,10 @@
-- Oi, eu sou Sandy Pirôpo
+- Hi There
 
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sandypiropo?color=1DA1F2&logo=Twitter&style=for-the-badge">
+<div>
+    <a href="https//beacons.ai/sandypiropo">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=sandypiropo&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+                             
+                             
+                             
 
-
-
-<!---
-sandypiropo/sandypiropo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                             
