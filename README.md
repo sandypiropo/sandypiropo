@@ -2,22 +2,23 @@
 
 Currently, I am a student of systems analysis and development. I'm learning python and improving my knowledge in HTML5 and CSS3.
 
- <h2><img src="https://media.giphy.com/media/tZIxqCNZhC9YKasYf7/giphy.gif" width="35px" height="35px">Skills:</h2>
-
 
 <div>
     <a href="https//beacons.ai/sandypiropo">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=sandypiropo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
-    
- <code><img height="25" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-    </div>
 
-![game-cube-micheal-jackson](https://user-images.githubusercontent.com/121200148/217365389-c5bf2a09-e584-47b0-87a0-8bc334b0a85c.gif)
-                             
-                             
+  <div align="left" valign="top"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Redux" height="30" width="40" 
+ <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   </div><br>
+   
 
-                             
+ ![game-cube-micheal-jackson](https://user-images.githubusercontent.com/121200148/217372831-0a64cc76-6c74-4535-abf2-bd26887c7a6a.gif)
+  
+  ![Snake animation](https://github.com/sandypiropo/sandypiropo/blob/output/github-contribution-grid-snake.svg)
+</div>
+                          
