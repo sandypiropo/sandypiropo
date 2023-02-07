@@ -18,7 +18,5 @@ Currently, I am a student of systems analysis and development. I'm learning pyth
    
 
  ![game-cube-micheal-jackson](https://user-images.githubusercontent.com/121200148/217372831-0a64cc76-6c74-4535-abf2-bd26887c7a6a.gif)
-  
-  ![Snake animation](https://github.com/sandypiropo/sandypiropo/blob/output/github-contribution-grid-snake.svg)
-</div>
-                          
+
+
