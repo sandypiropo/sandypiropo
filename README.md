@@ -1,14 +1,16 @@
 <div>
- 
-- Hello There! Currently, I am a student of systems analysis and development. 
-- I'm learning python and improving my knowledge in Javascript, HTML5 and CSS3.
+
+- Hello There! Currently, I am a student of systems analysis and development. I'm learning python and improving my knowledge in Javascript, HTML5 and CSS3.
+
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandypiropo&theme=tokyonight)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandypiropo&theme=tokyonight&utcOffset=8)|
+|---|---|
 
 
  <div>
   </a>
- <div align="center">
+<!-- div align="center">
     <a href="https//beacons.ai/sandypiropo">
-    <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=sandypiropo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=sandypiropo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> -->
 <!--     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandypiropo&theme=transparent&hide_border=false&&layout=compact"/>
   </a> -->
 </div>
