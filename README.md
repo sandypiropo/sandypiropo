@@ -4,11 +4,11 @@
 - I'm learning python and improving my knowledge in Javascript, HTML5 and CSS3.
 
 
-<!-- <div>
-    <a href="https//beacons.ai/sandypiropo">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=sandypiropo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+ <div>
   </a>
-</div> -->
+    <a href="https//beacons.ai/sandypiropo">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=sandypiropo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> 
+</div>
 
   <div align="left" valign="top"><br>
   <img align="left" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
