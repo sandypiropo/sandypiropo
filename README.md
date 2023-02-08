@@ -1,6 +1,6 @@
 <div>
  
-- Currently, I am a student of systems analysis and development. 
+- Hello There! Currently, I am a student of systems analysis and development. 
 - I'm learning python and improving my knowledge in Javascript, HTML5 and CSS3.
 
 
