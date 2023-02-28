@@ -3,10 +3,9 @@
   <p>Currently, I am a student of systems analysis and development. I am focused on learning Python, while also improving my knowledge in JavaScript, HTML5, and CSS3.</p>
 </div>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandypiropo&theme=tokyonight" alt="Profile Details">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandypiropo&theme=tokyonight&utcOffset=8" alt="Productive Time">
-</div>
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandypiropo&theme=tokyonight)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandypiropo&theme=tokyonight&utcOffset=8)|
+|---|---|
+
 
 <div align="center">
   <h3>Technologies and Tools</h3>
