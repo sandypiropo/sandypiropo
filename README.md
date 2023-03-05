@@ -1,9 +1,11 @@
 <div align="center">
   <h2>Hello there!</h2>
-  <p>Currently, I am a student of systems analysis and development. I am focused on learning Python, while also improving my knowledge in JavaScript, HTML5, and CSS3.</p>
+  <p>- Currently, I am a student of systems analysis and development
+    - I am focused on learning Python and Java 
+    - I'm improving my knowledge in JavaScript, HTML5, and CSS3.</p>
 </div>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandypiropo&theme=tokyonight)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandypiropo&theme=tokyonight&utcOffset=8)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandypiropo&theme=panda)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandypiropo&theme=panda&utcOffset=8)|
 |---|---|
 
 
