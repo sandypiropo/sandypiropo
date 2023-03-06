@@ -1,9 +1,14 @@
-
-<h2>Hello there!</h2>
-<p>- Brazilian, 23 years old :brazil:
-<p>- Pursuing a degree in Systems Analysis
-<p>- Studying to be a Back-end Developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/></p>
-<p>- Focus on Java and Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" /></p>
+<div style="display: flex; align-items: center;">
+  <div>
+    <h2>Hello there!</h2>
+    <p>- Brazilian, 23 years old :brazil:
+    <p>- Pursuing a degree in Systems Analysis
+    <p>- Studying to be a Back-end Developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/></p>
+    <p>- Focus on Java and Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" /></p>
+  </div>
+    <td colspan="2" align="center"><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandypiropo&layout=compact&theme=algolia&count_private=true" /></td>
+  </tr>
+</table>
 
 <h2>Technologies and tools</h2>
 
@@ -13,9 +18,10 @@
  
 <table>
   <tr>
-    <td><img align="center" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandypiropo&theme=algolia" /></td>
-    <td><img align="center" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandypiropo&theme=algolia&utcOffset=8" /></td>
-    <td><img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandypiropo&layout=compact&theme=algolia&count_private=true" /></td>
+    <td><img align="center" height="230px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandypiropo&theme=algolia" /></td>
+    <td><img align="center" height="230px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandypiropo&theme=algolia&utcOffset=8" /></td>
   </tr>
-</table>
+<table>
+
+
 
