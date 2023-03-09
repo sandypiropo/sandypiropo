@@ -3,8 +3,9 @@
     <h2>Hello there!</h2>
     <p>- Brazilian, 23 years old 
     <p>- Pursuing a degree in Systems Analysis
-    <p>- Studying to be a Back-end Developer <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/></p>
-    <p>- Focus on Java and Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" /></p>
+    <p>- Studying to be a Back-end Developer
+    <p>- Focus on Python</p>
+    <p>- Later on, I also want to learn
   </div>
   </tr>
 </table>
@@ -28,3 +29,6 @@
     </td>
   </tr>
 </table>
+
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" /> -->
