@@ -5,7 +5,7 @@
     <p>- Pursuing a degree in Systems Analysis
     <p>- Studying to be a Back-end Developer
     <p>- Focus on Python</p>
-    <p>- Later on, I also want to learn C and Java
+    <p>- Learning C and Java
   </div>
   </tr>
 </table>
