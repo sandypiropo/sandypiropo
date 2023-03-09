@@ -12,7 +12,7 @@
 
 <h2>Technologies and tools</h2>
 
-####      ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/JAVA-blue) ![](https://img.shields.io/badge/HTML5-blue)  ![](https://img.shields.io/badge/CSS3-blue) ![](https://img.shields.io/badge/Javascrpit-blue) ![](https://img.shields.io/badge/GIT-blue)
+  ####      ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/JAVA-blue) ![](https://img.shields.io/badge/C-blue) ![](https://img.shields.io/badge/C++-blue)  ![](https://img.shields.io/badge/HTML5-blue)  ![](https://img.shields.io/badge/CSS3-blue) ![](https://img.shields.io/badge/Javascrpit-blue) ![](https://img.shields.io/badge/GIT-blue)
 
 <h2> Stats :globe_with_meridians: </h2>
 
