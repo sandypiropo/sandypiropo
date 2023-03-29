@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
   <div>
     <h2>Hello there!</h2>
-    <p>- Brazilian, 23 years old 
+    <p>- Brazilian, 24 years old 
     <p>- Pursuing a degree in Systems Analysis
     <p>- Studying to be a Back-end Developer
     <p>- Focus on Python</p>
