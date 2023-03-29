@@ -12,7 +12,15 @@
 
 <h2>Technologies and tools</h2>
 
-  ####      ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/JAVA-blue) ![](https://img.shields.io/badge/C-blue) ![](https://img.shields.io/badge/C++-blue)  ![](https://img.shields.io/badge/HTML5-blue)  ![](https://img.shields.io/badge/CSS3-blue) ![](https://img.shields.io/badge/Javascrpit-blue) ![](https://img.shields.io/badge/GIT-blue)
+  #### 
+![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
+![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=gray)
+![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
+![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
+![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
+![C++](https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus)
 
 <h2> Stats :globe_with_meridians: </h2>
 
