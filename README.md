@@ -24,16 +24,16 @@
 
 <h2> Stats :globe_with_meridians: </h2>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandypiropo&theme=graywhite)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandypiropo&theme=graywhite&utcOffset=8)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandypiropo&theme=swift)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandypiropo&theme=swift&utcOffset=8)|
 |---|---|
 
 <table style="margin: 0 auto;" align="center">
   <tr>
     <td>
-      <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=sandypiropo&theme=graywhite&hide_border=false"/>
+      <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=sandypiropo&theme=swift&hide_border=false"/>
     </td>
     <td>
-      <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandypiropo&layout=compact&theme=graywhite&count_private=true"/>
+      <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandypiropo&layout=compact&theme=swift&count_private=true"/>
     </td>
   </tr>
 </table>
