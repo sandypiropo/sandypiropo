@@ -22,8 +22,8 @@
 
 <h2> Stats :globe_with_meridians: </h2>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandypiropo&theme=swift)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandypiropo&theme=swift&utcOffset=8)|
-|---|---|
+<!--|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandypiropo&theme=swift)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandypiropo&theme=swift&utcOffset=8)|
+|---|---|-->
 
 <table style="margin: 0 auto;" align="center">
   <tr>
