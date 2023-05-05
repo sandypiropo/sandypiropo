@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center;">
   <div>
     <h2>Hello there!</h2>
-    <p>- Brazilian, 24 years old 
+    <p>- BR, 24 years old 
     <p>- Pursuing a degree in Systems Analysis
     <p>- Studying to be a Back-end Developer
   </div>
@@ -20,7 +20,7 @@
 ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
 ![C++](https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus)
 
-<h2> Stats :globe_with_meridians: </h2>
+<h2> Stats </h2>
 
 <!--|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandypiropo&theme=swift)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sandypiropo&theme=swift&utcOffset=8)|
 |---|---|-->
