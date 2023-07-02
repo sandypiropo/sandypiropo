@@ -10,15 +10,23 @@
 
 <h2>Technologies and tools</h2>
 
-  #### 
+<details>
+  <summary>Languages</summary>
+  
 ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
 ![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=gray)
-![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
-![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
 ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
-![C++](https://img.shields.io/badge/C++-100000?style=for-the-badge&logo=cplusplus)
+![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
+![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
+</details>
+<details>
+  <summary>Tools</summary>
+  
+![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
+![Flask](https://img.shields.io/badge/flask-100000?style=for-the-badge&logo=flask)
+![Figma](https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma)
+</details>
 
 <h2> Stats </h2>
 
