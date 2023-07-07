@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSMSqVrVmpLCJJhxsQQnfBQrvCjmsSmLjLvbrqJCcwKnCGdVKczqLWXNxdwKkvJqWjtlLJGg" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-A52A2A?style=flat-square&labelColor=white&logo=gmail&logoColor=red&link=LINK-DO-SEU-EMAIL" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="#" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link='https://discord.gg/miojodetomate#4047'"/></a>
