@@ -14,9 +14,10 @@
 </p>
 
 <p align="left">
-  <a href=<a href = "mailto:sandypiropo@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=LINK-DO-SEU-EMAIL" /></a>
-
+<a href="mailto:sandypiropo@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:sandypiropo@gmail.com" />
+</a>
+      
   <a href="#" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link='https://discord.gg/miojodetomate#4047'"/></a>
 
