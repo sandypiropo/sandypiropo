@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSMSqVrVmpLCJJhxsQQnfBQrvCjmsSmLjLvbrqJCcwKnCGdVKczqLWXNxdwKkvJqWjtlLJGg" alt="Gmail">
+  <a href=<a href = "mailto:sandypiropo@gmail.com"> alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="#" alt="Discord">
