@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&labelColor=55acee&logo=twitter&logoColor=white&link='https://twitter.com/sandypiropo'"/></a>
 
   <a href="#" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=''https://www.linkedin.com/in/sandy-piropo-67b113217/'"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link='https://www.linkedin.com/in/sandy-piropo-67b113217/'"/></a>
 </p>
 
 <strong>My Skills:<strong>
