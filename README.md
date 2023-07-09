@@ -21,8 +21,9 @@
   <a href="#" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link='https://discord.gg/miojodetomate#4047'"/></a>
 
-  <a href="#" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&labelColor=55acee&logo=twitter&logoColor=white&link='https://twitter.com/sandypiropo'"/></a>
+ <a href="https://twitter.com/sandypiropo" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&labelColor=55acee&logo=twitter&logoColor=white"/>
+</a>
 
   <a href="#" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link='https://www.linkedin.com/in/sandy-piropo-67b113217/'"/></a>
