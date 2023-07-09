@@ -18,14 +18,14 @@
   <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:sandypiropo@gmail.com" />
 </a>
       
-  <a href="#" alt="Discord">
+  <a href="https://discord.gg/miojodetomate#4047" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link='https://discord.gg/miojodetomate#4047'"/></a>
 
  <a href="https://twitter.com/sandypiropo" alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&labelColor=55acee&logo=twitter&logoColor=white"/>
 </a>
 
-  <a href="#" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/sandy-piropo-67b113217/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link='https://www.linkedin.com/in/sandy-piropo-67b113217/'"/></a>
 </p>
 
