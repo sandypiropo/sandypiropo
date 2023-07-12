@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🕑:I'm Learning: <strong>Java POO (Udemy), Web development and Flask</strong>
+  🕑 I'm Learning: <strong>Java POO (Udemy), Web development and Flask</strong>
 </p>
 
 <p align="left">
