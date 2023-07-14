@@ -14,8 +14,8 @@
 </p>
 
 <p align="left">
-<a href="mailto:sandypiropo@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:sandypiropo@gmail.com" />
+<a href="mailto:sandypiropodev@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:sandypiropodev@gmail.com" />
 </a>
       
   <a href="https://discord.gg/miojodetomate#4047" alt="Discord">
