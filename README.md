@@ -18,17 +18,19 @@
 <a href="mailto:sandypiropodev@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:sandypiropodev@gmail.com" />
 </a>
-      
-  <a href="https://discord.gg/miojodetomate#4047" alt="Discord">
-  <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link='https://discord.gg/miojodetomate#4047'"/></a>
 
- <a href="https://twitter.com/sandypiropo" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&labelColor=55acee&logo=twitter&logoColor=white"/>
+<a href="https://discord.gg/miojodetomate#4047" alt="Discord">
+  <img src="https://img.shields.io/badge/-Discord-gray?style=flat-square&labelColor=gray&logo=discord&logoColor=white&link=https://discord.gg/miojodetomate#4047"/>
 </a>
 
-  <a href="https://www.linkedin.com/in/sandy-piropo-67b113217/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link='https://www.linkedin.com/in/sandy-piropo-67b113217/'"/></a>
-</p>
+<a href="https://twitter.com/sandypiropo" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-gray?style=flat-square&labelColor=gray&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sandy-piropo-67b113217/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
+</a>
+
 
 <strong>My Skills:<strong>
   
