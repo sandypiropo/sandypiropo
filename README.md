@@ -1,6 +1,6 @@
 # Sandy Pirôpo
 
-<img src="https://i.imgur.com/LK1j3GY.png" min-width="500px" max-width="500px" width="500px" align="right">
+<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
       Hello there! I'm a 24-year-old aspiring <strong>Java developer</strong> currently pursuing a degree in <strong>Systems Analysis</strong>.
@@ -57,10 +57,10 @@
   <table style="margin: 0 auto;" align="center">
     <tr>
       <td>
-        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=sandypiropo&theme=neon&hide_border=false"/>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=sandypiropo&theme=react&hide_border=false"/>
       </td>
       <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandypiropo&layout=compact&theme=neon&count_private=true"/>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandypiropo&layout=compact&theme=react&count_private=true"/>
       </td>
     </tr>
   </table>
