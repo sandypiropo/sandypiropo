@@ -50,6 +50,7 @@
   ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
   ![Flask](https://img.shields.io/badge/flask-100000?style=for-the-badge&logo=flask)
   ![Figma](https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma)
+  ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
   </details>
   
 # My Status
