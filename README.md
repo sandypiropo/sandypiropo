@@ -23,11 +23,11 @@
   <img src="https://img.shields.io/badge/-Discord-gray?style=flat-square&labelColor=gray&logo=discord&logoColor=white&link=https://discord.gg/miojodetomate#4047"/>
 </a>
 
-<a href="https://twitter.com/sandypiropo" alt="Twitter">
+<a href="https://twitter.com/sandevz" alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-gray?style=flat-square&labelColor=gray&logo=twitter&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sandy-piropo-67b113217/" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/sandypiropo" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
 </a>
 
