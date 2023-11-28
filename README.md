@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:sandypiropodev@gmail.com" />
 </a>
 
-<a href="https://discord.gg/miojodetomate#4047" alt="Discord">
+<a href="https://discord.gg/sandevz" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-gray?style=flat-square&labelColor=gray&logo=discord&logoColor=white&link=https://discord.gg/miojodetomate#4047"/>
 </a>
 
