@@ -3,7 +3,7 @@
 <img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-      Hello there! I'm a 24-year-old aspiring <strong>Java developer</strong> currently pursuing a degree in <strong>Systems Analysis</strong>.
+      Hello there! I'm a aspiring <strong>Java developer</strong> currently pursuing a degree in <strong>Systems Analysis</strong>.
 </p>
 
 <p align="left">
