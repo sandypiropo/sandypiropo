@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🕑 I'm Learning: <strong>Java OOP (Udemy), relational databases and Flutter (UFBA) </strong>
+  🕑 I'm Learning: <strong>Java OOP (Udemy), relational databases and IA (UFBA) </strong>
 </p>
 
 <p align="left">
