@@ -1,35 +1,14 @@
-# Sandy Pirôpo
+# About me
+
+I'm a passionate software engineer currently studying Systems Analysis and Development with a strong focus on building impactful technology that empowers people and fosters community growth. My goal is to create innovative solutions that solve real-world problems while also making technology more accessible to everyone.
 
 <img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
 
-<p align="left"> 
-      Hello there! I'm a aspiring <strong>Java developer</strong> currently pursuing a degree in <strong>Systems Analysis</strong>.
-</p>
 
 <p align="left">
-  🕑 I'm Learning: <strong>Java OOP (Udemy), relational databases and IA (UFBA) </strong>
+  🕑 I'm currently learning: <strong>Django, Flask</strong>
+      
 </p>
-
-<p align="left">
- <strong>You can find me on:<strong>
-</p>
-
-<p align="left">
-<a href="mailto:sandypiropodev@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:sandypiropodev@gmail.com" />
-</a>
-
-<a href="https://discord.gg/sandevz" alt="Discord">
-  <img src="https://img.shields.io/badge/-Discord-gray?style=flat-square&labelColor=gray&logo=discord&logoColor=white&link=https://discord.gg/miojodetomate#4047"/>
-</a>
-
-<a href="https://twitter.com/sandevz" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-gray?style=flat-square&labelColor=gray&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sandypiropo" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
-</a>
 
 
 <strong>My Skills:<strong>
@@ -52,10 +31,10 @@
   ![Figma](https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma)
   ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
   </details>
-  
-# My Status
-<div>
-  <table style="margin: 0 auto;" align="center">
+<details>
+      <summary>My Status</summary>  
+
+<table style="margin: 0 auto;" align="center">
     <tr>
       <td>
         <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=sandypiropo&theme=react&hide_border=false"/>
@@ -65,9 +44,16 @@
       </td>
     </tr>
   </table>
-</div>
+</details>
 
+<p align="left">
+ <strong>You can find me on:<strong>
+</p>
+<a href="https://x.com/sandevz"> X (Twitter)</a> 
+<a href="https://www.linkedin.com/in/sandypiropo/">LinkedIn</a> 
+<a href="https://dev.to/sandypiropo/">DEV Community</a> 
 
+<p align="left">
 <!--
 ![overview](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/overview.svg)
 ![langs used](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/languages.svg)
