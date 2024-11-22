@@ -2,8 +2,7 @@
 
 I'm a passionate software engineer currently studying Systems Analysis and Development with a strong focus on building impactful technology that empowers people and fosters community growth. My goal is to create innovative solutions that solve real-world problems while also making technology more accessible to everyone.
 
-<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
-
+<img src="https://ibb.co/0CQ89H7" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left">
   🕑 I'm currently learning: <strong>Django, Flask</strong>
