@@ -1,6 +1,7 @@
 # Hello World!!!
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como estagiária em desenvolvimento web. Meu foco está em criar experiências digitais acessíveis e funcionais, mas minha paixão por educação também me guia. Acredito que, assim como a tecnologia, a educação é uma ferramenta poderosa para capacitar pessoas e gerar novas oportunidades. 
+Há **0 dias** decidi seguir o meu coração e me aventurar no mundo da tecnologia. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e atuo como estagiária em desenvolvimento web. Meu foco está em criar experiências digitais acessíveis e funcionais, mas minha paixão por educação também me guia. Acredito que, assim como a tecnologia, a educação é uma ferramenta poderosa para capacitar pessoas e gerar novas oportunidades.
+
 <a href="https://github.com/sponsors/M0nica">
     <img align="right" width="380" height="280" src="https://i.postimg.cc/jd9XvnzP/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f63496e356654636a6e4b68537449654165662f67.gif">
 </a>
