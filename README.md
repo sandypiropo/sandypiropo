@@ -1,18 +1,14 @@
-# About me
+# Hello World!!!
 
-I'm a passionate software engineer currently studying Systems Analysis and Development with a strong focus on building impactful technology that empowers people and fosters community growth. My goal is to create innovative solutions that solve real-world problems while also making technology more accessible to everyone.
-
+Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como estagiária em desenvolvimento web. Meu foco está em criar experiências digitais acessíveis e funcionais, mas minha paixão por educação também me guia. Acredito que, assim como a tecnologia, a educação é uma ferramenta poderosa para capacitar pessoas e gerar novas oportunidades. 
 <a href="https://github.com/sponsors/M0nica">
     <img align="right" width="380" height="280" src="https://i.postimg.cc/jd9XvnzP/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f63496e356654636a6e4b68537449654165662f67.gif">
 </a>
 
-🕑 I'm currently learning: Django, Flask
-
-
-**My Skills:**
-
+🕑 Estou aprendendo: Next.js, Angular, Firebase...
+ 
 <details>
-  <summary>Languages</summary>
+  <summary>Linguagens e Tecnologias</summary>
 
   ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
   ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
@@ -23,7 +19,7 @@ I'm a passionate software engineer currently studying Systems Analysis and Devel
 </details>
 
 <details>
-  <summary>Tools</summary>
+  <summary>Ferramentas</summary>
   
   ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
   ![Flask](https://img.shields.io/badge/flask-100000?style=for-the-badge&logo=flask)
@@ -32,7 +28,7 @@ I'm a passionate software engineer currently studying Systems Analysis and Devel
 </details>
 
 <details>
-  <summary>My Status</summary>
+  <summary>Status</summary>
   <table style="margin: 0 auto;" align="center">
     <tr>
       <td>
@@ -45,11 +41,10 @@ I'm a passionate software engineer currently studying Systems Analysis and Devel
   </table>
 </details>
 
-**You can find me on:**
+**Redes sociais:**
 
 - [X (Twitter)](https://x.com/sandevz)
 - [LinkedIn](https://www.linkedin.com/in/sandypiropo/)
-- [DEV Community](https://dev.to/sandypiropo/)
 
 <!--
 ![overview](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/overview.svg)
