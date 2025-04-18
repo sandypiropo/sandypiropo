@@ -1,0 +1,37 @@
+name: Update Day Counter
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'  # A cada 24 horas
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update days counter
+        run: |
+          # Data inicial: 12 de dezembro de 2022
+          start_date="2022-12-12"
+          current_date=$(date +%Y-%m-%d)
+          
+          start_timestamp=$(date -d "$start_date" +%s)
+          current_timestamp=$(date -d "$current_date" +%s)
+          days_diff=$(( (current_timestamp - start_timestamp) / 86400 ))
+
+          sed -i "s/Há **[0-9]* dias**/Há **$days_diff dias**/" README.md
+
+      - name: Commit updated README
+        run: |
+          git config --global user.email "sandypiropo@gmail.com"
+          git config --global user.name "sandypiropo"
+          
+          git diff --exit-code README.md || (git add README.md && git commit -m "Atualizando contador de dias" && git push)
+
+
+
