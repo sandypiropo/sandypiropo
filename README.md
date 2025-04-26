@@ -3,9 +3,9 @@
 In my spare time, I share knowledge by teaching programming logic and educational robotics.
 </samp>
 <br><br>
-<!--<a href="https://github.com/sponsors/M0nica">
+<a href="https://github.com/sponsors/M0nica">
     <img align="right" width="380" height="280" src="https://i.postimg.cc/jd9XvnzP/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f63496e356654636a6e4b68537449654165662f67.gif">
-</a>-->
+</a>
 
 <details>
   <summary>Languages and Technologies</summary>
