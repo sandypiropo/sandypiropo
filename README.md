@@ -39,6 +39,10 @@ In my spare time, I share knowledge by teaching programming logic and educationa
   ![Netlify](https://img.shields.io/badge/netlify-100000?style=for-the-badge&logo=netlify)
 </details>
 
+**Social media:**
+
+- [X (Twitter)](https://x.com/sandevz) 
+- [LinkedIn](https://www.linkedin.com/in/sandypiropo/)
 <!--
 ![overview](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/overview.svg)
 ![langs used](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/languages.svg)
