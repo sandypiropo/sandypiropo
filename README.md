@@ -15,6 +15,7 @@ In my spare time, I share knowledge by teaching programming logic and educationa
   ![TypeScript](https://img.shields.io/badge/typescript-100000?style=for-the-badge&logo=typescript&logoColor=blue)
   ![JavaScript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript)
   ![React](https://img.shields.io/badge/react-100000?style=for-the-badge&logo=react)
+  ![Java](https://img.shields.io/badge/angular-100000?style=for-the-badge&logo=angular&logoColor=pink)
   ![Next.js](https://img.shields.io/badge/next.js-100000?style=for-the-badge&logo=next.js)
   ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
   ![HTML5](https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5)
