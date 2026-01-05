@@ -45,6 +45,7 @@ In my spare time, I share knowledge by teaching programming logic and educationa
 - [X (Twitter)](https://x.com/sandevz) 
 - [LinkedIn](https://www.linkedin.com/in/sandypiropo/)
 
+<!--
 ![overview](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/overview.svg)
 ![langs used](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/languages.svg)
 
