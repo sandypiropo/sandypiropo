@@ -37,6 +37,7 @@ In my spare time, I share knowledge by teaching programming logic and educationa
   ![Cloudinary](https://img.shields.io/badge/cloudinary-100000?style=for-the-badge&logo=cloudinary)
   ![Firebase](https://img.shields.io/badge/firebase-100000?style=for-the-badge&logo=firebase)
   ![Vercel](https://img.shields.io/badge/vercel-100000?style=for-the-badge&logo=vercel)
+  ![MCP](https://img.shields.io/badge/mcp-100000?style=for-the-badge&logo=mcp)
   ![Netlify](https://img.shields.io/badge/netlify-100000?style=for-the-badge&logo=netlify)
 </details>
 
