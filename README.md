@@ -1,6 +1,5 @@
 <samp>
-    I'm a Systems Analysis and Development student currently working as a web developer.  
-In my spare time, I share knowledge by teaching programming logic and educational robotics.
+   web developer
 </samp>
 <br><br>
 <a href="https://github.com/sponsors/M0nica">
