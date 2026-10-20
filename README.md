@@ -27,7 +27,7 @@ de aprender construindo com tecnologia.
 
 ---
 
-#### Tecnologias que fazem parte do meu trabalho
+#### Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-18181B?style=flat-square&logo=springboot&logoColor=6DB33F)
@@ -49,7 +49,7 @@ de aprender construindo com tecnologia.
 
 </details>
 
-#### Interesses
+<!--#### Interesses
 
 - Desenvolvimento web e arquitetura de aplicações.
 - Integração de inteligência artificial em sistemas.
