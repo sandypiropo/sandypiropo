@@ -1,50 +1,67 @@
-<samp>
-   web developer
-</samp>
-<br><br>
-<a href="https://github.com/sponsors/M0nica">
-    <img align="right" width="380" height="280" src="https://i.postimg.cc/jd9XvnzP/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f63496e356654636a6e4b68537449654165662f67.gif">
-</a>
+<img
+  align="right"
+  width="130"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+  alt="Java"
+/>
+
+### Sandy Pirôpo
+
+<samp>Software Developer · M.Sc. Student in Computer Science</samp>
+
+<br>
+
+Desenvolvedora de software e mestranda em Ciência da Computação
+na **Universidade Federal da Bahia (UFBA)**.
+
+Trabalho com desenvolvimento de aplicações web, APIs e bancos de dados,
+participando também de decisões de infraestrutura e implantação.
+
+No mestrado, pesquiso **Inteligência Artificial na Educação**,
+com interesse em diversidade, inclusão e nas possibilidades
+de aprender construindo com tecnologia.
+
+**Java continua sendo minha linguagem favorita.**
+
+<br clear="right">
+
+---
+
+#### Tecnologias que fazem parte do meu trabalho
+
+![Java](https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-18181B?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Angular](https://img.shields.io/badge/Angular-18181B?style=flat-square&logo=angular&logoColor=DD0031)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032)
 
 <details>
-  <summary>Languages and Technologies</summary>
+  <summary>Outras tecnologias com as quais já trabalhei</summary>
 
-  ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=openjdk&logoColor=red)
-  ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
-  ![TypeScript](https://img.shields.io/badge/typescript-100000?style=for-the-badge&logo=typescript&logoColor=blue)
-  ![JavaScript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript)
-  ![React](https://img.shields.io/badge/react-100000?style=for-the-badge&logo=react)
-  ![Java](https://img.shields.io/badge/angular-100000?style=for-the-badge&logo=angular&logoColor=pink)
-  ![Next.js](https://img.shields.io/badge/next.js-100000?style=for-the-badge&logo=next.js)
-  ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
-  ![HTML5](https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5)
-  ![SQL](https://img.shields.io/badge/sql-100000?style=for-the-badge&logo=postgresql)
-  ![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=gray)
+  <br>
+
+  JavaScript · React · Next.js · HTML · CSS · Flask ·
+  Firebase · Cloudinary · Vercel · Netlify ·
+  Power BI · Excel · Figma · Insomnia
 
 </details>
 
-<details>
-  <summary>Tools</summary>
+#### Interesses
 
-  ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
-  ![Flask](https://img.shields.io/badge/flask-100000?style=for-the-badge&logo=flask)
-  ![Spring Boot](https://img.shields.io/badge/springboot-100000?style=for-the-badge&logo=springboot)
-  ![Insomnia](https://img.shields.io/badge/insomnia-100000?style=for-the-badge&logo=insomnia)
-  ![Figma](https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma)
-  ![Power BI](https://img.shields.io/badge/power%20bi-100000?style=for-the-badge&logo=powerbi)
-  ![Excel](https://img.shields.io/badge/excel-100000?style=for-the-badge&logo=microsoftexcel)
-  ![Cloudinary](https://img.shields.io/badge/cloudinary-100000?style=for-the-badge&logo=cloudinary)
-  ![Firebase](https://img.shields.io/badge/firebase-100000?style=for-the-badge&logo=firebase)
-  ![Vercel](https://img.shields.io/badge/vercel-100000?style=for-the-badge&logo=vercel)
-  ![MCP](https://img.shields.io/badge/mcp-100000?style=for-the-badge&logo=mcp)
-  ![Netlify](https://img.shields.io/badge/netlify-100000?style=for-the-badge&logo=netlify)
-</details>
+- Desenvolvimento web e arquitetura de aplicações.
+- Integração de inteligência artificial em sistemas.
+- IA na educação, acessibilidade e inclusão.
+- Infraestrutura e automação de processos.
 
-**Social media:**
+---
 
-- [X (Twitter)](https://x.com/sandevz) 
-- [LinkedIn](https://www.linkedin.com/in/sandypiropo/)
-
+<sub>
+  Mais sobre minha trajetória no
+  <a href="https://www.linkedin.com/in/sandypiropo/">LinkedIn</a>.
+</sub>
 <!--
 ![overview](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/overview.svg)
 ![langs used](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/languages.svg)
